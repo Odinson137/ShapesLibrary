@@ -6,7 +6,7 @@ public class ShapesTests
     public void CircleAreaTest()
     {
         IShape circle = new Circle(5);
-        var expected = Math.PI * 25;
+        const double expected = Math.PI * 25;
         Assert.Equal(expected, circle.CalculateArea(), 10);
     }
 
