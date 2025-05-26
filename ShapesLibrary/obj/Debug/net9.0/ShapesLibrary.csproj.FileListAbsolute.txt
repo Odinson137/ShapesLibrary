@@ -1,0 +1,11 @@
+C:\Users\buryy\RiderProjects\ShapesLibrary\ShapesLibrary\bin\Debug\net9.0\ShapesLibrary.deps.json
+C:\Users\buryy\RiderProjects\ShapesLibrary\ShapesLibrary\bin\Debug\net9.0\ShapesLibrary.dll
+C:\Users\buryy\RiderProjects\ShapesLibrary\ShapesLibrary\bin\Debug\net9.0\ShapesLibrary.pdb
+C:\Users\buryy\RiderProjects\ShapesLibrary\ShapesLibrary\obj\Debug\net9.0\ShapesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buryy\RiderProjects\ShapesLibrary\ShapesLibrary\obj\Debug\net9.0\ShapesLibrary.AssemblyInfoInputs.cache
+C:\Users\buryy\RiderProjects\ShapesLibrary\ShapesLibrary\obj\Debug\net9.0\ShapesLibrary.AssemblyInfo.cs
+C:\Users\buryy\RiderProjects\ShapesLibrary\ShapesLibrary\obj\Debug\net9.0\ShapesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\buryy\RiderProjects\ShapesLibrary\ShapesLibrary\obj\Debug\net9.0\ShapesLibrary.dll
+C:\Users\buryy\RiderProjects\ShapesLibrary\ShapesLibrary\obj\Debug\net9.0\refint\ShapesLibrary.dll
+C:\Users\buryy\RiderProjects\ShapesLibrary\ShapesLibrary\obj\Debug\net9.0\ShapesLibrary.pdb
+C:\Users\buryy\RiderProjects\ShapesLibrary\ShapesLibrary\obj\Debug\net9.0\ref\ShapesLibrary.dll
